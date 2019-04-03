@@ -1,3 +1,23 @@
+## Google maps using ReactJS
+
+Application mainly focuses on integrating the react App with Google Maps Javascript API
+
+In the App we didn't use any external libraries like google-react-maps, react-google-maps etc
+
+The plain javascript provided by google documentation is directly refactored into react code
+
+Different features that are implemented in this app are as follows
+
+1. `Sample Map`
+2. `Marker`
+3. `MarkerClusterer`
+4. `InfoWindow`
+5. `DrawingManager`
+6. `Rotating the shape overlay's on the map when you draw one`
+7. `HeatMapOverlays`
+
+Please replace API_KEY with your own google maps API_KEY to continue using this app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -34,7 +34,7 @@ class MapMarkerCluster extends Component {
 
   renderMap = () => {
     loadScript(
-      "https://maps.googleapis.com/maps/api/js?key=AIzaSyC0Ihrl2V6nAHzYMxQc_CeJEtd9sW5AA6Q&callback=initMap"
+      "https://maps.googleapis.com/maps/api/js?key=API_KEY&callback=initMap"
     );
     window.initMap = this.initMap;
   };
