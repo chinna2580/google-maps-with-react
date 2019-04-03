@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-// import ReactDOMServer from "react-dom/server";
 import InfoWindowContent from "./InfoWindow";
 
 const googleMaps = window.google;
